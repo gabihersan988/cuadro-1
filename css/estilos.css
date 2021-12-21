@@ -1,0 +1,105 @@
+body{
+    color:white;
+    font-size: 24px;
+    background-color: white;
+    min-width: 100%;
+    min-height: 100%;
+    margin-top: auto;
+}
+div1{
+    color: darkorchid;
+    font-size: 24px;
+    background-color: white;
+    min-width: 100%;
+    min-height: 100%;
+    margin-top: auto;
+    
+}
+.content{
+    position:absolute;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color: darkorchid;
+    //height: 50%;
+    width: 50%;
+    align-content: center;
+}
+.caja1{
+ 
+    margin-top: 20px;
+    display: block;
+    color: aqua;
+    font-size: 24px;
+    background-color: aqua;
+    min-width: 98%;
+    height: 144px;
+    border: 5px double white; 
+}
+.caja2{
+    margin-top: 20px;
+    display: inline-block;
+    color: aqua;
+    font-size: 72px;
+    background-color: aqua;
+    min-width: 98%;
+    height: 144px;
+    border: 5px double white;
+}
+.caja_50_left{
+    margin-top: 20px;
+    display: inline;
+    color: aqua;
+    font-size: 24px;
+    background-color: aqua;
+    min-width: 47%;
+    height: 144px;
+    float: left;
+    border: 5px double white;
+}
+.caja_50_right{
+    margin-top: 20px;
+    display: inline;
+    color: aqua;
+    font-size: 24px;
+    background-color: aqua;
+    min-width: 47%;
+    height: 144px;
+    float: right;
+    border: 5px double white;
+}
+
+.caja3{
+    margin-top: 20px;
+    display: inline-block;
+    color: aqua;
+    font-size: 72px;
+    background-color: aqua;
+    min-width: 99%;
+    height: 144px;
+    border: 5px double white;
+    
+}
+.caja_51_left{
+    margin-top: 20px;
+    display: inline;
+    color: aqua;
+    font-size: 24px;
+    background-color: aqua;
+    min-width: 47%;
+    height: 144px;
+    float: left;
+    border: 5px double white;
+}
+.caja_51_right{
+    margin-top: 20px;
+    display: inline;
+    color: aqua;
+    font-size: 24px;
+    background-color: aqua;
+    min-width: 47%;
+    height: 144px;
+    float: right;
+    border: 5px double white;
+}
